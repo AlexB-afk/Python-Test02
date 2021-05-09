@@ -1,1 +1,1 @@
-print("mazi2")
+print("mazi14")
